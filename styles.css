@@ -56,7 +56,7 @@ body {
 }
 
 .main__wrapper {
-  background: url('bg-new1.png') 0 0/auto auto no-repeat;
+  background: url('img/bg-new1.png') 0 0/auto auto no-repeat;
   height: 41.67vh;
   min-height: 430px;
   margin-left: -620px;
